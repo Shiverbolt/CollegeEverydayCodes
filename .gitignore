@@ -1,0 +1,8 @@
+# Compiled output
+*.exe
+*.out
+*.o
+__pycache__/
+
+# VS Code Code Runner scratch files
+tempCodeRunnerFile*
